@@ -1,0 +1,12 @@
+* {margin:0;padding:0;}
+td{padding:5px;}
+.border-radius
+{margin:0;
+width:100%;
+text-align: center;
+font:bold 12px arial,sans-serif;
+border:2px solid #b9c9fe;
+-webkit-border-radius: 15px;
+-moz-border-radius: 15px;
+border-radius: 15px;
+}
